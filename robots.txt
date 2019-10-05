@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://feichaibe.okaysee.com/sitemap.xml
